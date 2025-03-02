@@ -18,7 +18,7 @@ This is a **Full-Stack MERN (MongoDB, Express, React, Node.js) Authentication Sy
 
 ## 🖥️ Screenshots
 ### **Signup Page**
-![Signup Page](https://github.com/devraj1608/MERN-LOGIN/blob/36f5fe426c4987822c7ffd9d78acdbabf98b9575/Screenshot%202025-03-02%20205951.png)
+![Signup Page](https://github.com/devraj1608/MERN-LOGIN/blob/4c625e60031b2900014fab368aaf7ca417f99aa5/Screenshot%202025-03-02%20210007.png)
 ### **Login Page**
 ![Login Page](https://github.com/devraj1608/MERN-LOGIN/blob/36f5fe426c4987822c7ffd9d78acdbabf98b9575/Screenshot%202025-03-02%20205951.png)
 
