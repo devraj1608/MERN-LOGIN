@@ -20,7 +20,7 @@ This is a **Full-Stack MERN (MongoDB, Express, React, Node.js) Authentication Sy
 ### **Signup Page**
 ![Signup Page](https://github.com/devraj1608/MERN-LOGIN/blob/36f5fe426c4987822c7ffd9d78acdbabf98b9575/Screenshot%202025-03-02%20205951.png)
 ### **Login Page**
-![Login Page](https://mern-login-two.vercel.app/login-screenshot.png)
+![Login Page](https://github.com/devraj1608/MERN-LOGIN/blob/36f5fe426c4987822c7ffd9d78acdbabf98b9575/Screenshot%202025-03-02%20205951.png)
 
 ### **Home Page (After Login)**
 ![Home Page](https://mern-login-two.vercel.app/home-screenshot.png)
